@@ -1,7 +1,8 @@
 ### Hi, I'm Anthony 👋
 
-*He/Him, Developer @plymouthsoftware*
-I'm a part-time developer, part-time student (third year Computer Science at Plymouth Uni). I work primarily with Ruby on Rails, and have written a few articles on using Ruby on Rails with Docker - check them out on my [website](www.delete44.com)...
+*He/Him, Developer [@plymouthsoftware](https://www.plymouthsoftware.com)*
+
+I'm a part-time developer, part-time student (third year Computer Science at Plymouth Uni). I work primarily with Ruby on Rails, and have written a few articles on using Ruby on Rails with Docker - check them out on my [website](https://www.delete44.com)...
 
 Beyond this I'm a total music nerd & collect playing cards 😁♣️
 
