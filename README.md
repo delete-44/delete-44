@@ -9,11 +9,11 @@ Beyond this I'm a total music nerd & collect playing cards 😁♣️
 ### Get in touch
 
 * Twitter: [@_delete44](https://twitter.com/_delete44)
-* LinkedIn: [@ctrlaltdelete44](https://www.linkedin.com/in/ctrlaltdelete44/)
-* Instagram: [@anthonyed1](https://www.instagram.com/anthonyed1/)
+* LinkedIn: [@delete44](https://www.linkedin.com/in/delete44/)
+* Instagram: [@_delete.44](https://www.instagram.com/_delete.44/)
 
 <!--
-**ctrlaltdelete44/ctrlaltdelete44** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**delete-44/delete-44** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
