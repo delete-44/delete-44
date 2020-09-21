@@ -10,7 +10,6 @@ Beyond this I'm a total music nerd & collect playing cards 😁♣️
 
 * Twitter: [@_delete44](https://twitter.com/_delete44)
 * LinkedIn: [@delete44](https://www.linkedin.com/in/delete44/)
-* Instagram: [@_delete.44](https://www.instagram.com/_delete.44/)
 
 <!--
 **delete-44/delete-44** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
