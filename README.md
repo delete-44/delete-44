@@ -2,7 +2,9 @@
 
 *He/Him, Developer [@plymouthsoftware](https://www.plymouthsoftware.com)*
 
-I'm a part-time developer, part-time student (third year Computer Science at Plymouth Uni). I work primarily with Ruby on Rails, and have written a few articles on using Ruby on Rails with the reactive frontend framework Vue - check them out on my [website](https://www.delete44.com)...
+I'm a part-time developer, full-time student (third year Computer Science at Plymouth Uni). I work primarily with Ruby on Rails, & have written a few articles on using Ruby on Rails with the reactive frontend framework Vue - check them out on my [website](https://www.delete44.com)...
+
+I'm trying to learn as much as I can about accessibility on the web & incorporate that into projects I work on. If you have any advice, let me know!
 
 Beyond this I'm a total music nerd & collect playing cards 😁♣️
 
