@@ -4,6 +4,8 @@
 
 I'm a software developer learning as much as I can about accessible design. I work primarily with Ruby on Rails, & have written a few articles on using Ruby on Rails with the reactive frontend framework Vue - [check them out on my website](https://www.delete44.com)...
 
+I've moved my dissertation to an organisation to keep the work organised; you can find all relevant repos within the [Scription organisation](https://github.com/delete-44-COMP3000)
+
 Beyond this I'm a total music nerd & collect playing cards 😁♣️
 
 ### Get in touch
