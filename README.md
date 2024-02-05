@@ -1,4 +1,4 @@
-### Hi, I'm Anthony 👋
+### Hi, I'm Eddie 👋
 
 *He/Him, Software Engineer [@Orbit](https://orbit.love/)*
 
