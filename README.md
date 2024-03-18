@@ -1,29 +1,16 @@
-### Hi, I'm Eddie 👋
+## Hi, I'm Eddie
 
-*He/Him, Software Engineer [@Orbit](https://orbit.love/)*
+I'm a full-stack software engineer building beautiful & accessible experiences, currently tapping away [@Orbit](https://orbit.love/). The important stuff;
 
-I'm a software developer learning as much as I can about accessible design. I work primarily with Ruby on Rails, & have written a few articles on using Ruby on Rails with the reactive frontend framework Vue - [check them out on my website](https://www.delete44.com)...
+- My pronouns are he/him.
+- I am a friend of Dorothy's. A fruit, a fairy, and a very, very queer man 🏳️‍🌈
+- Talk to me about music, horror, drag, and crap films.
+- Or, if you must, Ruby on Rails & React.
+- You can find me on [Bluesky](https://bsky.app/profile/delete44.bsky.social) & [LinkedIn](https://www.linkedin.com/in/delete44/).
 
-I've moved my dissertation to an organisation to keep the work organised; you can find all relevant repos within the [Scription organisation](https://github.com/delete-44-COMP3000)
+```
+> "You have some queer friends, Dorothy."
+> "The queerness doesn't matter, so long as they're friends!"
+```
 
-Beyond this I'm a total music nerd & collect playing cards 😁♣️
-
-### Get in touch
-
-* Twitter: [@_delete44](https://twitter.com/_delete44)
-* LinkedIn: [@delete44](https://www.linkedin.com/in/delete44/)
-
-<!--
-**delete-44/delete-44** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+_Road to Oz, 1909_
