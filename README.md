@@ -1,6 +1,6 @@
 ## Hi, I'm Eddie
 
-I'm a full-stack software engineer building beautiful & accessible experiences, currently tapping away [@Orbit](https://orbit.love/). The important stuff;
+I'm a full-stack software engineer building beautiful & accessible experiences, currently tapping away [@Postman](https://www.postman.com/). The important stuff;
 
 - My pronouns are he/him.
 - I am a friend of Dorothy's & a very, very queer man 🏳️‍🌈
@@ -10,9 +10,7 @@ I'm a full-stack software engineer building beautiful & accessible experiences, 
 
 ---
 
-```
-> "You have some queer friends, Dorothy."
-> "The queerness doesn't matter, so long as they're friends!"
-```
+> <p>"You have some queer friends, Dorothy."</p>
+> <p>"The queerness doesn't matter, so long as they're friends!"</p>
 
 _Road to Oz, 1909_
