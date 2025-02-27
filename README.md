@@ -10,6 +10,12 @@ I'm a full-stack software engineer building beautiful & accessible experiences, 
 
 ---
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
+
 > <p>"You have some queer friends, Dorothy."</p>
 > <p>"The queerness doesn't matter, so long as they're friends!"</p>
 
