@@ -1,6 +1,6 @@
 ## Hi, I'm Eddie
 
-I'm a full-stack software engineer building beautiful & accessible experiences, currently tapping away [@Postman](https://www.postman.com/). The important stuff;
+I'm a full-stack software engineer building beautiful & accessible experiences. The important stuff;
 
 - My pronouns are he/him.
 - I am a friend of Dorothy's & a very, very queer man 🏳️‍🌈
